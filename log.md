@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 13, Thursday 3:00AM
+
+**Today's Progress**: Spent 3 hours integrating User Authentication system via Devise, Omniauth. 95% complete barring a few errors which I will address later this morning. 
+
+**Thoughts**: Proud that I stuck through it. 8 months ago when I was hacking my way through michael hartl's tutorial, I was so very lost. Now, with a few tutorials, meetups, stackoverflow questions and a lot of reading...I'm coming along just fine. Loving it.  
+
+**Link(s) to work**
+1. https://twitter.com/jdhaliwal24/status/819868165014310912
+
 
 ### Day 1: January 12, Thursday
 
@@ -9,4 +18,7 @@
 
 **Link(s) to work**
 1. https://twitter.com/jdhaliwal24/status/819735989941698561
+
+
+
 
