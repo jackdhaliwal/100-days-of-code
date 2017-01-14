@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 14, Friday 4:20PM :)
+
+**Today's Progress**: Pulled up a chair at starbucks for a few hours to read some docs/blog posts on the twitter ruby gem and create a very basic twitter bot that retweets hashtags and can send out tweets.
+
+**Thoughts**: I should have built this sooner! It was a good ruby syntax refresher and now I can finally say I've built (a basic) Twitter bot. Back to SHMEDIUM app refinement and some C++ studying before my class starts next week. 
+
+**Link(s) to work**
+1. https://twitter.com/jdhaliwal24/status/820062714890358784
+
 ### Day 2: January 13, Thursday 3:00AM
 
 **Today's Progress**: Spent 3 hours integrating User Authentication system via Devise, Omniauth. 95% complete barring a few errors which I will address later this morning. 
