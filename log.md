@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 4: January 21, Saturday 1:02AM
+
+**Today's Progress**: Decided to switch gears and add a very basic Twitter feed utilizing Twitter Gem. Got a refreshed on environment variables and the importance of keeping those local/using figaro to hide them. Also had some fun reading through the Twitter Gem docs/watching some vids on how to get the feed setup correctly.
+
+**Thoughts**: I've realized that I simply want SHMEDIUM to be an app where I upload my blogs and share them. I still have a lot of refining to do, and that's fine..but it's coming along quite nicely. Another epiphany I've had is that most of my side projects will be put off until the weekends or on evenings when I'm not in class. It's the only way (at this point) that I feel like I'll get the grades that I want in all of my classes this semester, and I have to be honest with myself. Building this app is something I WANT to do. I don't want to stress myself out and not finish it. So one day at a time from now on. Coding remains fun :)
+
+**Link(s) to work**
+1. https://twitter.com/jdhaliwal24/status/822732934364827648
+
+
 ### Day 3: January 16, Sunday 1:30AM
 
 **Today's Progress**: Watched a bunch of football but I was feeling anxious to make use of Facebook API to authenticate with the SHMEDIUM app. Success! We can now authenticate with facebook credentials. It was a challenge, but I am glad I kept cracking through docs/google/stackoverflow to not only copy/paste code while pulling my hair out..but to learn a bit more about what was happening in my controller..user model..with Devise/Omniauth, and how facebook setup for third-party website logins, isn't as simple as it seems. Good challenge. 
