@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 6: January 23, Monday, 10:40PM
+
+**Today's Progress**: Finished first C/C++ Assignment for class. Created video tutorial part 1.
+
+**Thoughts**: Part 2 soon.
+
+**Link(s) to work**
+1. https://www.youtube.com/watch?v=JcAPAmIStOU
+
 ### Day 5: January 23, Monday, 10:40PM
 
 **Today's Progress**: Full speed ahead with my C Programming class. Taking a break from rails til the weekend most likely, as I want to commit fully to mastering C as much as possible..(I am paying for the class after all). Learned about Operators, If/Else statement, proper structure of a C program, and setup Code Blocks as my IDE for C.
