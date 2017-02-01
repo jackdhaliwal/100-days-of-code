@@ -1,7 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 31, Monday, 9:36PM
 
-### Day 6: January 23, Monday, 10:40PM
+**Today's Progress**: Part 2 of Video # 1 complete. 
+
+**Thoughts**: Refresher on Geometery, starting to the climb the mountain of C/C++. My legs already hurt. 
+
+
+**Link(s) to work**
+1. https://youtu.be/fRG-4iJ6XOs
+
+
+### Day 6: January 29, Monday, 10:00PM
 
 **Today's Progress**: Finished first C/C++ Assignment for class. Created video tutorial part 1.
 
