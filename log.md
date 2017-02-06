@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 8: February 5, 2017 Monday, 10:50PM
+
+**Today's Progress**: 3 Video walkthroughs on Loops/Loop Patterns in C++ 
+
+**Thoughts**: Had some tough assignments this weekend that I wrapped up this morning along with some great help with my fellow classmates/resources online. C/C++ is challenging, but it's fun. Must. Keep Going.
+
+
+**Link(s) to work**
+1. https://youtu.be/ZhspmEPshks
+2. https://youtu.be/CmRMc1yo0dk
+3. https://youtu.be/BKeH2Yl_EcI
+
 ### Day 7: January 31, Monday, 9:36PM
 
 **Today's Progress**: Part 2 of Video # 1 complete. 
