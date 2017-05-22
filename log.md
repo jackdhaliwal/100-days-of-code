@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day "9": May 22, 2017 Monday, 4:44PM
+
+Today's Progress: Refined Shmedium to be central hub for all of my portfolio-related content. (Blog, projects, tutorials,etc)
+
+Thoughts: It's been a few months since I've touched this. Although I have been coding (mainly in C/C++) for school, I haven't been able to play/contribute to my portfolio project. I am planning to use the summer to continue writing, making tutorials, learn angular, participate in meetups, take a summer class.. so this should keep me busy but I am hoping to add a bit more content to the rails-driven site through out the summer months.
+
+
+
 ### Day 8: February 5, 2017 Monday, 10:50PM
 
 **Today's Progress**: 3 Video walkthroughs on Loops/Loop Patterns in C++ 
