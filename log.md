@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day "10": May 27, 2017 Saturday, 4:35PM
+
+Today's Progress: Used Angular Seed app as bootstrap for HoopTime
+
+Thoughts: The best way to learn a particular framework/language in my opinion is to create. That being said, I've mocked up how I want the park/court data to display, gone ahead and cleaned up some initial structure, json data to reflect a few parks in elk grove, and added a custom filter (runRating) which rates how "good games" are at given park. More data seeding later. 
+
+
+
 ### Day "9": May 22, 2017 Monday, 4:44PM
 
 Today's Progress: Refined Shmedium to be central hub for all of my portfolio-related content. (Blog, projects, tutorials,etc)
