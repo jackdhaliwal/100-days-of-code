@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day "11": May 31, 2017 Saturday, 11:54PM
+### Day "11": May 31, 2017 Wednesday, 11:54PM
 
 Today's Progress: Added data to two more parks/finished Lecture 4 of MIT 6.006 Intro to Algorithims - Heaps and Heap Sort
 
