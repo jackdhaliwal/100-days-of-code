@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day "11": May 31, 2017 Saturday, 11:54PM
+
+Today's Progress: Added data to two more parks/finished Lecture 4 of MIT 6.006 Intro to Algorithims - Heaps and Heap Sort
+
+Thoughts: I'm focusing on adding as much Park data before I move onto user log-in/log-out so that users can eventually "check in" to parks and I can find a way to keep check in data/rank users.
+
 ### Day "10": May 27, 2017 Saturday, 4:35PM
 
 Today's Progress: Used Angular Seed app as bootstrap for HoopTime
