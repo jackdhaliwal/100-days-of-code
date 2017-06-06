@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day "12": June 5th, 2017 Monday, 10:49PM
+
+Today's Progress: Beginning authenticatio following example from: http://jasonwatmore.com/post/2015/03/10/angularjs-user-registration-and-login-example-tutorial#authenticationservice
+
+Thoughts: It was also the first day of trig so although I have to focus on that class over the next 6 weeks, I'm going to try and commit about an hour of my evening to completing this authentication project. Wish me luck! 
+
 
 ### Day "11": May 31, 2017 Wednesday, 11:54PM
 
