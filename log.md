@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+Day "13": June 19th, 2017 Monday, 9:50PM
+
+Today's Progress: Added to local dummy authentication. Cleaned up routes. 
+
+Thoughts: Just got done with the first quiz for my summer trig class. Hoping to add to/finish the authentication feature by the end of the week. 
+
 ### Day "12": June 5th, 2017 Monday, 10:49PM
 
 Today's Progress: Beginning authenticatio following example from: http://jasonwatmore.com/post/2015/03/10/angularjs-user-registration-and-login-example-tutorial#authenticationservice
