@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-Day "13": June 19th, 2017 Monday, 9:50PM
+### Day "13": June 19th, 2017 Monday, 9:50PM
 
 Today's Progress: Added to local dummy authentication. Cleaned up routes. 
 
