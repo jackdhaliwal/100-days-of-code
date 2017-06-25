@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day "14": June 24th, 2017 Saturday, 9:50PM
+
+Today's Progress: Desperately trying to push my rails driven portfolio portal site into production. 2 days in playing with procfile, package.json files, resetting buildpacks but Heroku still hates me. 
+
+Thoughts: One exam down and 2 more to go (at least). I'd like to work on getting my portfolio's main portal into production as Summer '18 applications are now approaching the less than 3 month mark. I then am hoping to add some more park data/features to HoopTime and put it into production as well. My goal after this class is over in two weeks will be at least a few pages of CTCI and a LeetCode problem per day, and working on one more smaller app in a different language (likely React). 
+
+
 ### Day "13": June 19th, 2017 Monday, 9:50PM
 
 Today's Progress: Added to local dummy authentication. Cleaned up routes. 
