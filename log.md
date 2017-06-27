@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day "15": June 26th, 2017 Monday, 9:50PM
+
+Today's Progress: Took a break from HoopTime/the portfolio portal push to production to make a c++ tutorial on functions.
+
+Thoughts: Trig exam tomorrow, but needed to do something related to programming to keep my sanity. I've been meaning to make a new c++ tutorial just to kind of gauge if I've grown in terms of confidence when speaking about this stuff, and compared to my older videos, I can definitely say that I feel more comfortable with the concepts, syntax, what is going on in general. There is always room for improvement, but it feels good to publish some content nonetheless :)
+
+**Link(s) to work** 
+https://youtu.be/qA23ow_1m54?list=PL8ud3mY4a0w1e3kXqk_uTj4J2skl_jguO
+
+
 ### Day "14": June 24th, 2017 Saturday, 9:50PM
 
 Today's Progress: Desperately trying to push my rails driven portfolio portal site into production. 2 days in playing with procfile, package.json files, resetting buildpacks but Heroku still hates me. 
