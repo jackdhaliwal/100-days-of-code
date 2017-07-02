@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day "16": July 2nd, 2017 Sunday, 4:46PM
+
+Today's Progress: Started working on solutions in CTCI. 
+
+Thoughts: Two trig exams down, one more to go and I have the grade that I want in the class so far. Two more weeks and the class is over and I can focus fully on working through CTCI solutions, and taking a stab at leetcode along with continuing to add features to HoopTime, the portfolio portal, and pushing both into production. I plan to go through 1 solution a day. Going through the first one in Arrays and Strings, and finding a solution that I somewhat understood took about 1.5 hours. I'll have to find a way to be more efficient but I think whiteboarding the solutions is going to be necessary prep. 
+
+**Link(s) to work** 
+https://repl.it/JKwe/3
+https://pbs.twimg.com/media/DDxKRf0VoAA4FXb.jpg
+https://pbs.twimg.com/media/DDxKRr4VoAA8zx-.jpg
+
+
+
 ### Day "15": June 26th, 2017 Monday, 9:50PM
 
 Today's Progress: Took a break from HoopTime/the portfolio portal push to production to make a c++ tutorial on functions.
