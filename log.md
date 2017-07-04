@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-Day "17": July 4th, 2017 Tuesday, 1:49PM
+### Day "17": July 4th, 2017 Tuesday, 1:49PM
 
 Today's Progress: 1.2/1.3 whiteboarding via Solutions Careerup Repo on github.
 
