@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+Day "17": July 4th, 2017 Tuesday, 1:49PM
+
+Today's Progress: 1.2/1.3 whiteboarding via Solutions Careerup Repo on github.
+
+Thoughts: I had a few hours this morning to work through the solutions of 1.2 and 1.3 in CTCI Chapter 1. 1.2 asked: given two strings, write a method that checks if one string is a permutation of the other. I was able to walk through the solution from Careerup's c++ solution repo and use the following approach: find the length of both strings, compare these lengths (if lengths differ, they cannot be permutations of each other). Next, sort the strings from beginning to end, and compare these now sorted strings. From there I was able to successfully determine if the given strings were permutations of each other.
+
+1.3 focused on URLifying a given string, (adding %20 to any spaces within the string). The solution that I found (and am still trying to grasp fully) was to use two passes as CTCI noted. The first pass to count the number of spaces. Before the second pass, triple the number of spaces so we can compute how many chars we will have in final string. In the second pass, edit the actual string from end to beginning because according to CTCI, with string manipulation problems, the extra buffer at end allows us to change chars without worrying what we're overwriting. (still trying to understand this fully). Time to July 4th, hard. Cheers.
+
+Link(s) to work: https://repl.it/JLMF/9  (1.2)
+                 https://repl.it/JN2l/5  (1.3)
+                 https://pbs.twimg.com/media/DD61_UnVoAAZpk7.jpg
+                 https://pbs.twimg.com/media/DD61_UqVYAE0nvB.jpg
+
+
 ### Day "16": July 2nd, 2017 Sunday, 4:46PM
 
 Today's Progress: Started working on solutions in CTCI. 
