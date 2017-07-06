@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day "18": July 5th, 2017 Wednesday, 11:39PM
+
+Today's Progress: An hour of reading through how to hookup MongoDB/ExpressJS to HoopTime! I've got mongodb/expressjs/mongoose installed locally and created a simple user model following a scotch.io guide: https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
+
+
+
+Thoughts: Need to a bit more reading, and a lot more coding. I'm happy that even the 30 minutes that I spent tonight getting the backend somewhat connected, was progress. It's almost like a weight has been lifted from my shoulders because even in between CTCI problems the last few days, I've been craving some time with my app!
+
+
 ### Day "17": July 4th, 2017 Tuesday, 1:49PM
 
 Today's Progress: 1.2/1.3 whiteboarding via Solutions Careerup Repo on github.
