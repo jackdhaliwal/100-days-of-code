@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day "19": July 9th, 2017 Satuday, 1:15AM
+
+Decided to take a break from db setup and work on getting something deployed into production via heroku. After two hours of debugging, still having trouble getting hooptime running in production. More work in the morning. 
 
 ### Day "18": July 5th, 2017 Wednesday, 11:39PM
 
