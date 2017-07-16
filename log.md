@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+Day "21": July 15th, 2017 Saturday, 5:45PM
+
+Today's Progress: Spent a few hours finally deploying the test version of the HoopTime app to production! 
+
+
+Thoughts: Next I'll be moving onto pushing the official version of HoopTime to production via Heroku.On to CTCI for the night. TG Summer Semester is over! 
+
+Link(s) to work: https://fast-stream-14431.herokuapp.com
+
 ### Day "20": July 10th, 2017 Sunday, 9:54AM
 
 Today's Progress: After failing to deploy hooptime into production via Heroku last night, I decided to take a step back and build a toy app following a scotch.io tutorial found here: https://scotch.io/tutorials/how-to-deploy-a-node-js-app-to-heroku. Even deploying this simple app built within half an hour proved to be more challenging than I thought. Apparently, Heroku requires you to additionally specify your node version in your package.json. Once I did this, we were good to go.
