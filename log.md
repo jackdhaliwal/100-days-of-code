@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+Day "22": July 16th, 2017 Sunday, 11:00AM
+
+Today's Progress/thoughts: Worked through 1.5 (one away) solution in CTCI. Explanation. We're given two strings and are asked to write a function to check if they are one away or (one edit) from each other. We approach the problem in the following way: there are only three types of edits  that can be done on strings (inserting char/removing char (inverse of insert) and replacing a char). 
+
+The brute force solution as discussed in the solutions chapter describes checking all possible strings that are one edit away by testing removal,insertion, replacement of each character respectively and comparing. This however would be too slow and so another approach is more sensible.
+
+We can develop a check (function) for replacement, and another for insertion/deletion. Instead of checking the strings directly for the edits, this can be determined by comparing lengths. For example, if the lengths are the same, call the replaceedit function. Else, we call the insertion/deletion function. This approach which I whiteboarded is O(n) where n represents the length of the shorter string. (If strings are same length (or +/- one char, runtime will not change. If strings are very different lengths, then algo will terminate in O(1) time. One really long string will not extend runtime. Both long strings would. 
+
+There is an alternate approach of combining both checks into one, where we're able to check for replacement edit/insertion/deletion which would be more compact and would follow the DRY principle but personally, I found seperating the checks in multiple methods a bit more clear/maintainable for the next programmer who may have to work on the code. 
+
+
+Link(s) to work: http://image-store.slidesharecdn.com/730fff69-b5ab-4805-a160-49d1bfea7f2f-original.jpeg
+
 Day "21": July 15th, 2017 Saturday, 5:45PM
 
 Today's Progress: Spent a few hours finally deploying the test version of the HoopTime app to production! 
