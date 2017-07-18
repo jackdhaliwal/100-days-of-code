@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+Day "23": July 17th, 2017 Monday, 10:39PM
+
+Today's Progress/thoughts: 
+- Added necessary files to make SHMEDIUM (my portfolio portal) heroku ready (a basic version)
+- Cleaned up readme/about pages
+- ***Pushed SHMEDIUM into production***
+- Need to continue working on devise routing/views/configuration
+
+
+Link(s) to work: https://shmedium.herokuapp.com/pages/about
+
 Day "22": July 16th, 2017 Sunday, 11:00AM
 
 Today's Progress/thoughts: Worked through 1.5 (one away) solution in CTCI. Explanation. We're given two strings and are asked to write a function to check if they are one away or (one edit) from each other. We approach the problem in the following way: there are only three types of edits  that can be done on strings (inserting char/removing char (inverse of insert) and replacing a char). 
