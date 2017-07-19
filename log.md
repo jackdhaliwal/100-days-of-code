@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+Day "24": July 18th, 2017 Tuesday, 11:52PM
+
+Today's Progress/thoughts: 
+- Removed extra/unneccessary sign-in flash messages that devise was throwing out to users. Hoping to setup the mailer for "forgot password" feature
+
+- Also finished 1.6 (String Compression) in CTCI. This was the first problem that I worked with and semi understood with a solution in Java. I followed along with the solution here: https://www.youtube.com/watch?v=XMKMgzU1uiw. The question asks to write a method that performs basic string compression using counts of repeated characters. (Ex: aabbcddd = a2b2c1d3) The assumption is that the string only has uppercase and lowercase chars and and that if the compressed string is longer than the original string, simply return the original string. 
+# Approach: Start with an empty string which will eventually be our compressed string. We then need a counter variable to keep track of the characters we count. Next a forloop that will go through the string and have two cases:
+
+1st case - if current char == next char, keep counting
+2nd case - if current char != next char, append current char to new output string and add sum.
+Then, we reset the sum or counter to 1. 
+Next, we append whatever is left at the end of the original string to the new output string. Finally, the question asks us to consider that if the new output string is longer than the original string, go ahead and return the orignal string. Code for this:
+return out.length() <s.length () ? out : s;
+
+Lastly, I was confused because CTCI talked about StringBuilder (Java), which are string-like objects, but can be modified.Did not know this before today, kind of cool. 
+
+
+
+Link(s) to work: https://www.linkedin.com/feed/update/urn:li:activity:6293341066783531008
+
+
 Day "23": July 17th, 2017 Monday, 10:39PM
 
 Today's Progress/thoughts: 
