@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+Day "26": July 23rd, 2017 Sunday, 7:23PM
+
+Today's Progress/thoughts: 
+Finished reading/whiteboarding 1.8 in CTCI (Zero Matrix). We're asked: Write and algorithim such that if an element in an MxN matrix is 0, its entire row and column are set to zero. I used byte by byte's video, and the actual code from the book to help me roughly understand the problem/approach.
+
+Questions:- modify in place, or return a new array?
+          - Will this be a single atomic solution?
+          - dimensions of matrix (answered in question)
+Assuming that the approach will modify the matrix in place (void function, nothing returned), that it is in fact a single atomic solution where we compute the cell modifications first before editing, and assume that this is an MxN matrix.
+
+Possible approaches: - we could create a new matrix but it will not be very efficient.
+                     - we could use bit vector instead of bool array, check if first row and column have any zeros by using two variables and setting them to false initially. 
+                     
+Solution: Using the second approach: 
+          - We set both variables to true if first row or first column have a zero.  
+          - We continue by iterating through the rest of the matrix, setting matrix [i][0] and matrix [0][j] to zero whenever there is a zero in matrix [i][j].
+          - We then iterate through rest of matrix, null row i if there's a zero in matrix [i] [0].
+          - Similarly, we nullify column j if there's a zero in matrix [0][j].
+          - Finally, we nullify the first row and first column if necessary. 
+          
+ This one was rough for me, but I'm confident with a bit more whiteboard practice, I can wrap my head around it completely. 
+
+Link(s) to work: https://shmedium.herokuapp.com/pages/about
+
+Day "25" was deleted some how, but here is the linkedin post: https://www.linkedin.com/feed/update/urn:li:activity:6294312961506971648
+
 Day "24": July 18th, 2017 Tuesday, 11:52PM
 
 Today's Progress/thoughts: 
