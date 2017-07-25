@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+Day "27": July 25th, 2017 Tues, 12:04AM
+
+Today's Progress/thoughts: 
+Finished 1.9 - String Rotation in CTCI today. I wrote out a solution on the whiteboard and followed an example online to make sure the logic stuck. Surprisingly simple algorithim. 
+
+Question: We have a function "isSubstring" which checks whether a string is substring of another. Given two strings s1 and s2, write code to check if s2 is a rotation of s1 using only one call to "isSubstring".
+
+Example of substrings: - Original: "waterbottle"
+                       - Candidate for substring: "erbottle"
+
+Approach: - ensure lengths are the same
+          - ensure both are > 0
+          - assign a new variable to (s1 + s1)
+          - make one call to isSubstring
+Solution: To check if one string (s2) is a rotation of another (s1), I learned that we can take the original, in this case s1.. and concatonate it to itself, assign this to a new variable (newS1=s1+s1), and then pass in the new variable along with the second string in our one function call.
+
+Ex: isSubstring(newS1,s2)
+
+We can then try and newS1.find(s2) [try to find the second string in the new concatonation of the original] and if it is found, it's a rotation! 
+Ex: s1= waterbottle
+    s2= erbottle
+    newS1=waterbottlewaterbottle
+    s2 is a rotation of s1! 
+
+
+Link(s) to work: 
+
 Day "26": July 23rd, 2017 Sunday, 7:23PM
 
 Today's Progress/thoughts: 
