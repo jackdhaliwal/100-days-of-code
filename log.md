@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+Day "28": August 1st, 2017 Monday, 9:35PM
+
+Today's Progress/thoughts: 
+Took some time away for the Angel Hack Hackathon this past weekend, but I'm back at it! Skipped 2.1 in Linked lists (CTCI), as I couldn't wrap my head around the solution, but plan to come back. For now, I worked through the solution of 2.2 (Implement algorithim to find kth to last element of a singly linked list). 
+-Used the iterative approach 
+-Two pointers to keep track of current and follower nodes.
+- Place them k nodes apart by putting p2 at beginning and moving p1 k nodes til we hit null.
+- p2 would follow in sync and then Length(at which place p1 hits null) - k (position of p2 node) will give us the output that we want. 
+
+Excited and am working on a blog post for this past weekend. Amazing experience. Coming soon!
+
+
+Link(s) to work: http://image-store.slidesharecdn.com/1fe66fe1-5c18-4be4-a8e0-286a9050d5e8-original.jpeg
+
 Day "27": July 25th, 2017 Tues, 12:04AM
 
 Today's Progress/thoughts: 
