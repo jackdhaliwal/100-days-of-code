@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+
+August 6th, 2017 Sunday, 12:15PM
+
+Today's Progress/thoughts: 
+Wrote up a detailed blog post about my (and my team's experience) from AngelHack, last weekend. Please check it out:
+https://medium.com/@jackdhaliwal/my-first-hackathon-team-my-circle-c2758852ee64
+
+Additionally, I've decided to dive into DS/Algorithims studying a bit more this month as I can definitely use more practice. I worked on 2.3 in CTCI today (Delete Middle Node) which I found to be relatively simple. I used my notebook to write out the approach/logic/code this time and I focused on trying to understand the java code as best as possible. 
+We are asked: Implement algorithim to delete a node in the middle (any node but the middle or first) of a singly linked list, give only access to that node.
+
+Approach: In a singly linked list, we know that we have access to the data of the current node, the id of the current node, and the next pointer of the current node which gives us access to the next node and the node after that etc.In regard to deleting a node from a linked list, we can point the next pointer of the previous node to the node after the current to break the link between the previous and the current node/establish the link between the previous and the next. This would effectively delete the current node in a linked list, and we can use this approach as a guide for our problem.
+
+- To delete our "middle node" in this problem, we:
+1. Check to see if we're at the tail or the next node is at the tail by checking to see if both nodes are null.
+2. Copy the id from the next to the current node.
+2a. Copy data from the next to the current.
+3. point next pointer of current node to the the node we just deleted's next. (get rid of connection and connect previous to next.next.
+
+
+Link(s) to work: http://image-store.slidesharecdn.com/fc4ea167-8791-4516-9dc0-420b083c7ff5-original.jpeg
+
 Day "28": August 1st, 2017 Monday, 9:35PM
 
 Today's Progress/thoughts: 
