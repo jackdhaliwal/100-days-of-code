@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+Day "29": August 13th, 2017 Sunday, 10:00PM
+
+Today's Progress/thoughts: 
+Finally back to CTCI. In 2.6 - Palindromes, we are asked: Given a linked list, write a function to determine whether the list is a plalindrome (same forward and same backwards).
+Ex: 1->2->3
+Questions: 
+- what type of list? 
+- 
+Approach: There are a couple of ways to approach this problem:
+- Reverse linked list, and then compare. (involves copying entire linked list which seems kind of uncecessary. You could split list and half and then reverse only first half - KIND OF COMPLICATED)  
+- Recursion?
+- Iterative appoach (one case for odd, one for even!!). 
+
+Iterative: Store values that we've visited thus far and compare them once we get to second half of list using Stack. 
+- Assuming we don't know size of list. If we do, just iterate through first half of list with for loop and push each element onto stack. 
+- if we don't know size, use fast runner/slow runner (pointers). With while loop, push data from slow runner onto stack. When fast runner reaches end of list, or past end (even), slow runner will be at middle. 
+- stack should have all elements in first half of list
+- Now iterate through list and at each iteration, compare node to top of the stack. If we complete iteration and don't find difference, the linked list is a palindrome. 
+
+
+
+
+Link(s) to work: http://image-store.slidesharecdn.com/e13ab8a5-39c7-4c0f-b588-54c18e464658-original.jpeg 
+
 
 August 6th, 2017 Sunday, 12:15PM
 
