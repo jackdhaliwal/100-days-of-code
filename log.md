@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+Day "30": August 15th, 2017 Tuesday, 10:00PM
+
+Today's Progress/thoughts: 
+Worked through "Single Number" on LeetCode this evening. We are asked: Given an array of integers, every element appears twice except for one. Find that single one.
+
+Note:
+Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
+
+
+
+Approach: 
+Although this problem looked intimidating at first, after gaining a basic understanding of XOR in Java, I was able to understand that we could use it to return all like pairs of elements along with the single one that we are trying to find.
+- We traverse through the array via a for loop and store the the result of each pair of elements (and the single one) in the result variable: result^=nums[i];
+- When using XOR, it will return false (0) any time both A & B values are the same. Ex: 0^0 == 0, 1^1 == 0, false^false==false.
+- A illustration of our function looks like the following: 
+N1 ^ N1 ^ N2 ^ N2 ...Nx ^ Nx ^N
+= (N1^N1) ^ (N2^N2) ... (Nx^Nx)^N
+= 0^0 ^ 0^0 ... 0^0 ^N
+= N (our single element)
+
+
+..all with no extra memory use and in O(n) or linear time kinda cool!
+
+
+Link(s) to work: http://image-store.slidesharecdn.com/2c63c75a-a94e-4398-aa37-0e20ab7d1144-original.png
+
 Day "29": August 13th, 2017 Sunday, 10:00PM
 
 Today's Progress/thoughts: 
