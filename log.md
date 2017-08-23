@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+Day "31": August 22nd, 2017 Tuesday, 9:04PM
+
+Today's Progress/thoughts: 
+(Post from yesterday evening) - Yesterday I started the Fall semester at school and have commited to 17 units (4 classes). Although this means I'll ostensibly be learning a lot in the classroom, I won't be able to commit as much time to DS/Algo/Side projects for the next few months. I will however still plan to commit at least some sort of code to github at least every 1-2 days. Whether this means simply adding to this log incrementally, or knocking away at HoopTime/finally getting it into production, or starting a new app...that's what weekends will be!
+
+Moving on, I worked on Leetcode 155/CTCI 3.2 Stack Min where we're asked to Get the minimum element from a stack in O(1) (Constant) time.
+I learned that we can achieve this by using two stacks, one for the elements that will be pushed to it, and another to keep track of the minimums. We use the push, pop, and min operators. It was pretty straight forward, but I feel a bit more empowered by learning how to do it.
+
+
+
+Link(s) to work: http://image-store.slidesharecdn.com/1d408b6d-fcf9-4f47-84e1-6cd4b3123d2e-original.png
+
+
 Day "30": August 15th, 2017 Tuesday, 10:00PM
 
 Today's Progress/thoughts: 
